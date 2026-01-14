@@ -62,7 +62,7 @@ Refactored a legacy API into a clean, testable TypeScript backend.
 ### Experience
 
 **Software Engineer**
-*Windy Civi (Chi Hack Night) · Remote · Jul 2023 – Present*
+*Windy Civi (Chi Hack Night) · January 2024 – Present*
 
 * Build and maintain data pipelines to make legislative data more accessible.
 * Script workflows to process and version scraped data using append only logs.
